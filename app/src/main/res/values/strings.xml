@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="txtName">Welcome to the project of Osama Elghazaly 190180</string>
+    <string name="hintID">Enter ID</string>
+    <string name="hintName">Enter name ..</string>
+    <string name="hintEmail">Enter email ..</string>
+    <string name="hintPhoneNumber">Enter phone number ..</string>
+    <string name="txtInsert">Insert</string>
+    <string name="txtActivity2">Go to activity 2</string>
+    <string name="txtActivity3">Go to activity 3</string>
+    <string name="txtActivity1">Go to activity 1</string>
+    <string name="txtSearchHint">Enter name to search..</string>
+    <string name="txtDltHint">Enter name to delete matching record(s)..</string>
+    <string name="txtGetAllData">Get all data</string>
+    <string name="txtDelete">Delete</string>
+    <string name="txtSearch">Search</string>
+</resources>
